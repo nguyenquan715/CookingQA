@@ -5,5 +5,7 @@ A cooking-related domain question-answering system that uses machine learning to
 First, the question is analyzed in two steps: classifying the question using the Support Vector Machine (SVM) model and performing entity recognition using the Conditional Random Field (CRF) model. After analyzing the question, the system formats the query and executes it using the ElasticSearch (ES) search engine on a dataset of dishes. It then finds the answer and displays it to the user.
 
 ## Watch the Demo
+  + [Watch the video](https://drive.google.com/file/d/1lYa4TA04m-O9zIr6oj6hD8LEd1WHB72r/view?usp=sharing)
 
-* [![Watch the video](https://drive.google.com/file/d/1oKXV7vKWAeUG4U7TywFG7YDu0OI6RHuO/view?usp=sharing)](https://drive.google.com/file/d/1lYa4TA04m-O9zIr6oj6hD8LEd1WHB72r/view?usp=sharing)
+  
+  ![](https://github.com/nguyenquan715/CookingQA/blob/main/client/public/images/thumbnail1.png)
